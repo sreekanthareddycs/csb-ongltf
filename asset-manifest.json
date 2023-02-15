@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sreekanthareddycs.github.io/csb-ongltf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sreekanthareddycs.github.io/csb-ongltf/static/js/main.5085d54b.chunk.js",
+    "main.js.map": "https://sreekanthareddycs.github.io/csb-ongltf/static/js/main.5085d54b.chunk.js.map",
+    "runtime-main.js": "https://sreekanthareddycs.github.io/csb-ongltf/static/js/runtime-main.c1d940c3.js",
+    "runtime-main.js.map": "https://sreekanthareddycs.github.io/csb-ongltf/static/js/runtime-main.c1d940c3.js.map",
+    "static/js/2.7b24b9ca.chunk.js": "https://sreekanthareddycs.github.io/csb-ongltf/static/js/2.7b24b9ca.chunk.js",
+    "static/js/2.7b24b9ca.chunk.js.map": "https://sreekanthareddycs.github.io/csb-ongltf/static/js/2.7b24b9ca.chunk.js.map",
+    "index.html": "https://sreekanthareddycs.github.io/csb-ongltf/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sreekanthareddycs.github.io/csb-ongltf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7b24b9ca.chunk.js.LICENSE.txt": "https://sreekanthareddycs.github.io/csb-ongltf/static/js/2.7b24b9ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1d940c3.js",
+    "static/js/2.7b24b9ca.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5085d54b.chunk.js"
+  ]
+}
